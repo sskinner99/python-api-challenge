@@ -1,0 +1,1 @@
+weather_api = "67397f9b29b891d57ef6a81e4b966f9d"
